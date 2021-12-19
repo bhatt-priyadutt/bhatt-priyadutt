@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Header](https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/git-header.png "Header")](https://bhatt-priyadutt.github.io/priyadutt-portfolio/)
 <!--
 **bhatt-priyadutt/bhatt-priyadutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Priyadutt's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatt-priyadutt&count_private=true&show_icons=true&theme=dark)](https://github.com/bhatt-priyadutt/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatt-priyadutt&repo=Job-A-Thon-2021-Nov----Analytics-Vidhya)](https://github.com/bhatt-priyadutt/Job-A-Thon-2021-Nov----Analytics-Vidhya)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatt-priyadutt&repo=Multi-Output-Regression)](https://github.com/bhatt-priyadutt/Multi-Output-Regression)
