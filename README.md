@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/git-header.png "Header")](https://bhatt-priyadutt.github.io/priyadutt-portfolio/)
+
 <!--
 **bhatt-priyadutt/bhatt-priyadutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
