@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Priyadutt's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatt-priyadutt&count_private=true&show_icons=true&theme=dark)](https://github.com/bhatt-priyadutt/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatt-priyadutt&repo=Job-A-Thon-2021-Nov----Analytics-Vidhya)](https://github.com/bhatt-priyadutt/Job-A-Thon-2021-Nov----Analytics-Vidhya)
+# Open Source Contributions:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatt-priyadutt&repo=zenml)](https://github.com/bhatt-priyadutt/zenml)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatt-priyadutt&repo=Multi-Output-Regression)](https://github.com/bhatt-priyadutt/Multi-Output-Regression)
